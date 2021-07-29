@@ -7,6 +7,7 @@ The project is written in Python3.6.8 using the following backend: Intel i7-9750
 ## Data
 
 Two datasets are Involved, including InitTraffic and TestTraffic in [dataset](./dataset).
+The raw pcaps can be found [here](https://drive.google.com/drive/folders/1Ot0bqZ9c85lRBOdG_jF6fMQEEzh1chJh?usp=sharing)
 
 ## Code 
 Code is wiritten in Jupyter Notebook.
