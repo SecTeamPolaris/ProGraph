@@ -1,4 +1,4 @@
-# INFOCOM22_ProGraph
+# ProGraph
 
 Source code for the under-review paper of ToN, ProGraph: **Robust Network Traffic Identification with Graph Propagation**
 
