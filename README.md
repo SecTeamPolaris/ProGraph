@@ -11,3 +11,14 @@ The raw pcaps can be found [here](https://drive.google.com/drive/folders/1Ot0bqZ
 
 ## Code 
 Code is wiritten in Jupyter Notebook.
+
+## Reference
+````
+@article{li2022prograph,
+  title={ProGraph: Robust Network Traffic Identification With Graph Propagation},
+  author={Li, Wenhao and Zhang, Xiao-Yu and Bao, Huaifeng and Shi, Haichao and Wang, Qiang},
+  journal={IEEE/ACM Transactions on Networking},
+  year={2022},
+  publisher={IEEE}
+}
+````
