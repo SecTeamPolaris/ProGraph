@@ -14,11 +14,13 @@ Code is wiritten in Jupyter Notebook.
 
 ## Reference
 ````
-@article{li2022prograph,
-  title={ProGraph: Robust Network Traffic Identification With Graph Propagation},
+@ARTICLE{9933044,
   author={Li, Wenhao and Zhang, Xiao-Yu and Bao, Huaifeng and Shi, Haichao and Wang, Qiang},
-  journal={IEEE/ACM Transactions on Networking},
-  year={2022},
-  publisher={IEEE}
-}
+  journal={IEEE/ACM Transactions on Networking}, 
+  title={ProGraph: Robust Network Traffic Identification With Graph Propagation}, 
+  year={2023},
+  volume={31},
+  number={3},
+  pages={1385-1399},
+  doi={10.1109/TNET.2022.3216603}}
 ````
